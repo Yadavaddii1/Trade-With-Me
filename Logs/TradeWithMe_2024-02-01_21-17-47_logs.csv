@@ -1,0 +1,463 @@
+2024-02-01 21:17:47,598: root: INFO: TradeWithMe : Executing the initialize lifecycle method
+2024-02-01 21:17:49,546: root: INFO: Current backtesting datetime 2020-01-10 08:30:00-05:00
+2024-02-01 21:17:49,547: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:17:49,549: root: INFO: Current backtesting datetime 2020-01-10 09:30:00-05:00
+2024-02-01 21:17:49,549: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:17:49,552: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:17:49
+2024-02-01 21:17:49,558: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:17:49,578: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:17:53,743: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:17:53
+2024-02-01 21:17:53,745: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:17:53,747: root: INFO: Current backtesting datetime 2020-01-10 16:00:00-05:00
+2024-02-01 21:17:53,747: root: INFO: Current backtesting datetime 2020-01-11 09:30:00-05:00
+2024-02-01 21:17:53,748: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:17:53,750: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-02-01 21:17:53,752: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-02-01 21:17:53,752: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:17:53,753: root: INFO: Current backtesting datetime 2020-01-13 08:30:00-05:00
+2024-02-01 21:17:53,754: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:17:53,755: root: INFO: Current backtesting datetime 2020-01-13 09:30:00-05:00
+2024-02-01 21:17:53,755: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:17:53,756: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:17:53
+2024-02-01 21:17:53,756: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:17:53,757: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:02,861: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:02
+2024-02-01 21:18:02,862: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:02,864: root: INFO: Current backtesting datetime 2020-01-13 16:00:00-05:00
+2024-02-01 21:18:02,864: root: INFO: Current backtesting datetime 2020-01-14 09:30:00-05:00
+2024-02-01 21:18:02,865: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:02
+2024-02-01 21:18:02,865: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:02,866: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:04,069: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:04
+2024-02-01 21:18:04,071: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:04,072: root: INFO: Current backtesting datetime 2020-01-14 16:00:00-05:00
+2024-02-01 21:18:04,072: root: INFO: Current backtesting datetime 2020-01-15 09:30:00-05:00
+2024-02-01 21:18:04,073: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:04
+2024-02-01 21:18:04,074: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:04,075: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:05,814: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:05
+2024-02-01 21:18:05,816: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:05,817: root: INFO: Current backtesting datetime 2020-01-15 16:00:00-05:00
+2024-02-01 21:18:05,817: root: INFO: Current backtesting datetime 2020-01-16 09:30:00-05:00
+2024-02-01 21:18:05,818: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:05
+2024-02-01 21:18:05,818: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:05,820: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:08,357: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:08
+2024-02-01 21:18:08,360: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:08,362: root: INFO: Current backtesting datetime 2020-01-16 16:00:00-05:00
+2024-02-01 21:18:08,362: root: INFO: Current backtesting datetime 2020-01-17 09:30:00-05:00
+2024-02-01 21:18:08,365: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:08
+2024-02-01 21:18:08,366: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:08,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:09,549: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:09
+2024-02-01 21:18:09,551: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:09,553: root: INFO: Current backtesting datetime 2020-01-17 16:00:00-05:00
+2024-02-01 21:18:09,553: root: INFO: Current backtesting datetime 2020-01-18 09:30:00-05:00
+2024-02-01 21:18:09,554: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:18:09,557: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-02-01 21:18:09,558: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-02-01 21:18:09,558: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:18:09,559: root: INFO: Current backtesting datetime 2020-01-21 08:30:00-05:00
+2024-02-01 21:18:09,560: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:18:09,561: root: INFO: Current backtesting datetime 2020-01-21 09:30:00-05:00
+2024-02-01 21:18:09,561: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:18:09,562: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:09
+2024-02-01 21:18:09,562: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:09,564: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:11,072: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:11
+2024-02-01 21:18:11,074: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:11,075: root: INFO: Current backtesting datetime 2020-01-21 16:00:00-05:00
+2024-02-01 21:18:11,075: root: INFO: Current backtesting datetime 2020-01-22 09:30:00-05:00
+2024-02-01 21:18:11,076: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:11
+2024-02-01 21:18:11,077: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:11,078: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:13,202: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:13
+2024-02-01 21:18:13,202: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:13,202: root: INFO: Current backtesting datetime 2020-01-22 16:00:00-05:00
+2024-02-01 21:18:13,202: root: INFO: Current backtesting datetime 2020-01-23 09:30:00-05:00
+2024-02-01 21:18:13,202: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:13
+2024-02-01 21:18:13,202: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:13,213: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:14,487: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:14
+2024-02-01 21:18:14,487: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:14,487: root: INFO: Current backtesting datetime 2020-01-23 16:00:00-05:00
+2024-02-01 21:18:14,487: root: INFO: Current backtesting datetime 2020-01-24 09:30:00-05:00
+2024-02-01 21:18:14,498: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:14
+2024-02-01 21:18:14,499: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:14,501: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:18,345: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:18
+2024-02-01 21:18:18,345: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:18,352: root: INFO: Current backtesting datetime 2020-01-24 16:00:00-05:00
+2024-02-01 21:18:18,352: root: INFO: Current backtesting datetime 2020-01-25 09:30:00-05:00
+2024-02-01 21:18:18,353: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:18:18,358: root: INFO: Current backtesting datetime 2020-01-25 09:29:00-05:00
+2024-02-01 21:18:18,360: root: INFO: Current backtesting datetime 2020-01-25 09:29:00-05:00
+2024-02-01 21:18:18,360: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:18:18,367: root: INFO: Current backtesting datetime 2020-01-27 08:30:00-05:00
+2024-02-01 21:18:18,369: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:18:18,369: root: INFO: Current backtesting datetime 2020-01-27 09:30:00-05:00
+2024-02-01 21:18:18,369: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:18:18,374: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:18
+2024-02-01 21:18:18,374: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:18,374: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:20,586: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:20
+2024-02-01 21:18:20,591: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:20,591: root: INFO: Current backtesting datetime 2020-01-27 16:00:00-05:00
+2024-02-01 21:18:20,591: root: INFO: Current backtesting datetime 2020-01-28 09:30:00-05:00
+2024-02-01 21:18:20,591: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:20
+2024-02-01 21:18:20,591: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:20,599: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:22,643: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:22
+2024-02-01 21:18:22,643: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:22,651: root: INFO: Current backtesting datetime 2020-01-28 16:00:00-05:00
+2024-02-01 21:18:22,651: root: INFO: Current backtesting datetime 2020-01-29 09:30:00-05:00
+2024-02-01 21:18:22,651: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:22
+2024-02-01 21:18:22,651: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:22,659: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:24,653: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:24
+2024-02-01 21:18:24,653: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:24,653: root: INFO: Current backtesting datetime 2020-01-29 16:00:00-05:00
+2024-02-01 21:18:24,653: root: INFO: Current backtesting datetime 2020-01-30 09:30:00-05:00
+2024-02-01 21:18:24,661: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:24
+2024-02-01 21:18:24,661: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:24,661: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:26,351: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:26
+2024-02-01 21:18:26,354: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:26,354: root: INFO: Current backtesting datetime 2020-01-30 16:00:00-05:00
+2024-02-01 21:18:26,354: root: INFO: Current backtesting datetime 2020-01-31 09:30:00-05:00
+2024-02-01 21:18:26,354: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:26
+2024-02-01 21:18:26,354: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:26,359: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:28,274: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:28
+2024-02-01 21:18:28,274: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:28,279: root: INFO: Current backtesting datetime 2020-01-31 16:00:00-05:00
+2024-02-01 21:18:28,279: root: INFO: Current backtesting datetime 2020-02-01 09:30:00-05:00
+2024-02-01 21:18:28,279: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:18:28,287: root: INFO: Current backtesting datetime 2020-02-01 09:29:00-05:00
+2024-02-01 21:18:28,287: root: INFO: Current backtesting datetime 2020-02-01 09:29:00-05:00
+2024-02-01 21:18:28,287: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:18:28,287: root: INFO: Current backtesting datetime 2020-02-03 08:30:00-05:00
+2024-02-01 21:18:28,287: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:18:28,287: root: INFO: Current backtesting datetime 2020-02-03 09:30:00-05:00
+2024-02-01 21:18:28,287: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:18:28,303: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:28
+2024-02-01 21:18:28,303: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:28,303: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:30,071: root: INFO: New market order of | 155.0 SPY sell | at price $258.6800048828125 of class bracket with status unprocessed was submitted.
+2024-02-01 21:18:30,129: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:30
+2024-02-01 21:18:30,129: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:30,129: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:30,136: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:30,136: root: INFO: market order of | 155.0 SPY sell | at price $258.6800048828125 of class bracket with status new was sent to broker backtesting
+2024-02-01 21:18:30,136: root: INFO: market order of | 155.0 SPY sell | at price $258.6800048828125 of class bracket with status new was sent to broker backtesting
+2024-02-01 21:18:30,136: root: INFO: Filled Transaction: sell 155.0 of SPY at 323.35000610 USD per share
+2024-02-01 21:18:30,136: root: INFO: market order of | 155.0 SPY sell | at price $258.6800048828125 of class bracket with status new was filled
+2024-02-01 21:18:30,144: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:30,152: root: INFO: Current backtesting datetime 2020-02-03 16:00:00-05:00
+2024-02-01 21:18:30,152: root: INFO: Current backtesting datetime 2020-02-04 09:30:00-05:00
+2024-02-01 21:18:30,158: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:30
+2024-02-01 21:18:30,158: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:30,158: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:31,538: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:31
+2024-02-01 21:18:31,538: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:31,538: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:31,538: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:31,538: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:31,538: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:31,538: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:31,538: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:31,554: root: INFO: Current backtesting datetime 2020-02-04 16:00:00-05:00
+2024-02-01 21:18:31,554: root: INFO: Current backtesting datetime 2020-02-05 09:30:00-05:00
+2024-02-01 21:18:31,560: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:31
+2024-02-01 21:18:31,560: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:31,560: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:33,519: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:33
+2024-02-01 21:18:33,519: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:33,519: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:33,519: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:33,519: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:33,519: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:33,519: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:33,519: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:33,530: root: INFO: Current backtesting datetime 2020-02-05 16:00:00-05:00
+2024-02-01 21:18:33,530: root: INFO: Current backtesting datetime 2020-02-06 09:30:00-05:00
+2024-02-01 21:18:33,536: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:33
+2024-02-01 21:18:33,536: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:33,536: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:35,135: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:35
+2024-02-01 21:18:35,135: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:35,135: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:35,135: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:35,135: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:35,135: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:35,152: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:35,152: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:35,152: root: INFO: Current backtesting datetime 2020-02-06 16:00:00-05:00
+2024-02-01 21:18:35,152: root: INFO: Current backtesting datetime 2020-02-07 09:30:00-05:00
+2024-02-01 21:18:35,164: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:35
+2024-02-01 21:18:35,164: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:35,169: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,617: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:38
+2024-02-01 21:18:38,617: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,617: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,617: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,617: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,617: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,617: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,632: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:38,632: root: INFO: Current backtesting datetime 2020-02-07 16:00:00-05:00
+2024-02-01 21:18:38,632: root: INFO: Current backtesting datetime 2020-02-08 09:30:00-05:00
+2024-02-01 21:18:38,632: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:18:38,632: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,632: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,632: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,632: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,632: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,632: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,648: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,648: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,648: root: INFO: Current backtesting datetime 2020-02-08 09:29:00-05:00
+2024-02-01 21:18:38,648: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,648: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,664: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,664: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,664: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,669: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,669: root: INFO: Current backtesting datetime 2020-02-08 09:29:00-05:00
+2024-02-01 21:18:38,669: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:18:38,669: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,669: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,669: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,669: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,669: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,679: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,679: root: INFO: Current backtesting datetime 2020-02-10 08:30:00-05:00
+2024-02-01 21:18:38,679: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,679: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,679: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:18:38,679: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,679: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,679: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,679: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:38,679: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,695: root: INFO: Current backtesting datetime 2020-02-10 09:30:00-05:00
+2024-02-01 21:18:38,695: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:18:38,695: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:38
+2024-02-01 21:18:38,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:38,695: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:41,827: root: INFO: New market order of | 227.0 SPY sell | at price $264.9840087890625 of class bracket with status unprocessed was submitted.
+2024-02-01 21:18:41,844: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:41
+2024-02-01 21:18:41,844: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:41,844: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:41,844: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:41,844: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:41,844: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:41,844: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:41,844: root: INFO: market order of | 227.0 SPY sell | at price $264.9840087890625 of class bracket with status new was sent to broker backtesting
+2024-02-01 21:18:41,844: root: INFO: market order of | 227.0 SPY sell | at price $264.9840087890625 of class bracket with status new was sent to broker backtesting
+2024-02-01 21:18:41,844: root: INFO: Filled Transaction: sell 227.0 of SPY at 331.23001099 USD per share
+2024-02-01 21:18:41,844: root: INFO: market order of | 227.0 SPY sell | at price $264.9840087890625 of class bracket with status new was filled
+2024-02-01 21:18:41,844: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:41,844: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:41,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:41,862: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:41,862: root: INFO: Current backtesting datetime 2020-02-10 16:00:00-05:00
+2024-02-01 21:18:41,862: root: INFO: Current backtesting datetime 2020-02-11 09:30:00-05:00
+2024-02-01 21:18:41,866: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:41
+2024-02-01 21:18:41,866: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:41,869: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,479: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:43
+2024-02-01 21:18:43,479: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:43,479: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,480: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,481: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:43,481: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,482: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,482: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:43,482: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,483: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,483: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:43,483: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,484: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,486: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:43,487: root: INFO: Current backtesting datetime 2020-02-11 16:00:00-05:00
+2024-02-01 21:18:43,487: root: INFO: Current backtesting datetime 2020-02-12 09:30:00-05:00
+2024-02-01 21:18:43,489: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:43
+2024-02-01 21:18:43,489: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:43,490: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,341: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:44
+2024-02-01 21:18:44,342: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:44,342: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,343: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,344: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:44,344: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,345: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,345: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:44,345: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,346: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,347: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:44,347: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,348: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,350: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:44,351: root: INFO: Current backtesting datetime 2020-02-12 16:00:00-05:00
+2024-02-01 21:18:44,351: root: INFO: Current backtesting datetime 2020-02-13 09:30:00-05:00
+2024-02-01 21:18:44,353: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:44
+2024-02-01 21:18:44,353: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:44,355: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,142: root: INFO: New market order of | 335.0 SPY sell | at price $268.68798828125 of class bracket with status unprocessed was submitted.
+2024-02-01 21:18:45,146: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:45
+2024-02-01 21:18:45,146: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:45,146: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,147: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,147: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:45,148: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,148: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,149: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:45,149: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,150: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,150: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:45,150: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,151: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,151: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:45,152: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,152: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,153: root: INFO: market order of | 335.0 SPY sell | at price $268.68798828125 of class bracket with status new was sent to broker backtesting
+2024-02-01 21:18:45,153: root: INFO: market order of | 335.0 SPY sell | at price $268.68798828125 of class bracket with status new was sent to broker backtesting
+2024-02-01 21:18:45,153: root: INFO: Filled Transaction: sell 335.0 of SPY at 335.85998535 USD per share
+2024-02-01 21:18:45,153: root: INFO: market order of | 335.0 SPY sell | at price $268.68798828125 of class bracket with status new was filled
+2024-02-01 21:18:45,157: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:45,158: root: INFO: Current backtesting datetime 2020-02-13 16:00:00-05:00
+2024-02-01 21:18:45,158: root: INFO: Current backtesting datetime 2020-02-14 09:30:00-05:00
+2024-02-01 21:18:45,161: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:45
+2024-02-01 21:18:45,161: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:45,163: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,296: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:18:46
+2024-02-01 21:18:46,296: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,296: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,298: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,298: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,298: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,299: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,300: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,300: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,302: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,302: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,302: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,304: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,304: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,304: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,305: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,306: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,306: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,307: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,308: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:18:46,310: root: INFO: Current backtesting datetime 2020-02-14 16:00:00-05:00
+2024-02-01 21:18:46,310: root: INFO: Current backtesting datetime 2020-02-15 09:30:00-05:00
+2024-02-01 21:18:46,311: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:18:46,312: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,312: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,313: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,313: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,313: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,314: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,314: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,314: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,315: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,315: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,315: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,316: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,317: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,317: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,318: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,318: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,318: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,319: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,320: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,321: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,321: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,322: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,322: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,323: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,323: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,323: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,324: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,324: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,324: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,325: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,325: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,325: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,326: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,326: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,326: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,327: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,328: root: INFO: Current backtesting datetime 2020-02-15 09:29:00-05:00
+2024-02-01 21:18:46,329: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,329: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,330: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,330: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,330: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,331: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,331: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,331: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,332: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,332: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,332: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,333: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,333: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,333: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,334: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,334: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,334: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,335: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,336: root: INFO: Current backtesting datetime 2020-02-15 09:29:00-05:00
+2024-02-01 21:18:46,336: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:18:46,336: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,336: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,337: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,337: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,337: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,338: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,338: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,338: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,339: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,339: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,339: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,340: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,340: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,340: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,341: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,341: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,341: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,342: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,343: root: INFO: Current backtesting datetime 2020-02-18 08:30:00-05:00
+2024-02-01 21:18:46,344: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,345: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,347: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:18:46,347: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,347: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,347: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,348: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,348: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,348: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,349: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,349: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,349: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,350: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,350: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,351: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,351: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,351: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,352: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,352: root: INFO: Getting historical prices for SPY, 1 bars, 
+2024-02-01 21:18:46,352: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,352: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,353: root: INFO: Current backtesting datetime 2020-02-18 09:30:00-05:00
+2024-02-01 21:18:46,354: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:18:46,355: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:18:46
+2024-02-01 21:18:46,355: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:18:46,356: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote

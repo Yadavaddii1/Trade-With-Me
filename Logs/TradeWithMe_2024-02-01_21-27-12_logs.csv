@@ -1,0 +1,180 @@
+2024-02-01 21:27:12,300: root: INFO: TradeWithMe : Executing the initialize lifecycle method
+2024-02-01 21:27:13,885: root: INFO: Current backtesting datetime 2020-01-02 08:30:00-05:00
+2024-02-01 21:27:13,885: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:27:13,885: root: INFO: Current backtesting datetime 2020-01-02 09:30:00-05:00
+2024-02-01 21:27:13,885: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:27:13,885: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:13
+2024-02-01 21:27:13,902: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:13,915: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:20,924: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:20
+2024-02-01 21:27:20,924: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:20,924: root: INFO: Current backtesting datetime 2020-01-02 16:00:00-05:00
+2024-02-01 21:27:20,924: root: INFO: Current backtesting datetime 2020-01-03 09:30:00-05:00
+2024-02-01 21:27:20,924: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:20
+2024-02-01 21:27:20,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:20,924: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:22,200: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:22
+2024-02-01 21:27:22,200: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:22,200: root: INFO: Current backtesting datetime 2020-01-03 16:00:00-05:00
+2024-02-01 21:27:22,200: root: INFO: Current backtesting datetime 2020-01-04 09:30:00-05:00
+2024-02-01 21:27:22,204: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:27:22,205: root: INFO: Current backtesting datetime 2020-01-04 09:29:00-05:00
+2024-02-01 21:27:22,207: root: INFO: Current backtesting datetime 2020-01-04 09:29:00-05:00
+2024-02-01 21:27:22,207: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:27:22,209: root: INFO: Current backtesting datetime 2020-01-06 08:30:00-05:00
+2024-02-01 21:27:22,210: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:27:22,211: root: INFO: Current backtesting datetime 2020-01-06 09:30:00-05:00
+2024-02-01 21:27:22,211: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:27:22,212: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:22
+2024-02-01 21:27:22,212: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:22,214: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:23,661: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:23
+2024-02-01 21:27:23,661: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:23,665: root: INFO: Current backtesting datetime 2020-01-06 16:00:00-05:00
+2024-02-01 21:27:23,665: root: INFO: Current backtesting datetime 2020-01-07 09:30:00-05:00
+2024-02-01 21:27:23,665: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:23
+2024-02-01 21:27:23,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:23,669: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:36,491: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:36
+2024-02-01 21:27:36,491: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:36,491: root: INFO: Current backtesting datetime 2020-01-07 16:00:00-05:00
+2024-02-01 21:27:36,491: root: INFO: Current backtesting datetime 2020-01-08 09:30:00-05:00
+2024-02-01 21:27:36,507: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:36
+2024-02-01 21:27:36,507: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:36,507: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:39,059: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:39
+2024-02-01 21:27:39,062: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:39,066: root: INFO: Current backtesting datetime 2020-01-08 16:00:00-05:00
+2024-02-01 21:27:39,066: root: INFO: Current backtesting datetime 2020-01-09 09:30:00-05:00
+2024-02-01 21:27:39,068: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:39
+2024-02-01 21:27:39,068: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:39,071: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:42,038: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:42
+2024-02-01 21:27:42,041: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:42,041: root: INFO: Current backtesting datetime 2020-01-09 16:00:00-05:00
+2024-02-01 21:27:42,041: root: INFO: Current backtesting datetime 2020-01-10 09:30:00-05:00
+2024-02-01 21:27:42,041: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:42
+2024-02-01 21:27:42,041: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:42,041: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:43,757: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:43
+2024-02-01 21:27:43,757: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:43,757: root: INFO: Current backtesting datetime 2020-01-10 16:00:00-05:00
+2024-02-01 21:27:43,757: root: INFO: Current backtesting datetime 2020-01-11 09:30:00-05:00
+2024-02-01 21:27:43,757: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:27:43,771: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-02-01 21:27:43,774: root: INFO: Current backtesting datetime 2020-01-11 09:29:00-05:00
+2024-02-01 21:27:43,774: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:27:43,774: root: INFO: Current backtesting datetime 2020-01-13 08:30:00-05:00
+2024-02-01 21:27:43,774: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:27:43,774: root: INFO: Current backtesting datetime 2020-01-13 09:30:00-05:00
+2024-02-01 21:27:43,774: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:27:43,774: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:43
+2024-02-01 21:27:43,774: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:43,786: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:45,591: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:45
+2024-02-01 21:27:45,591: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:45,605: root: INFO: Current backtesting datetime 2020-01-13 16:00:00-05:00
+2024-02-01 21:27:45,605: root: INFO: Current backtesting datetime 2020-01-14 09:30:00-05:00
+2024-02-01 21:27:45,607: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:45
+2024-02-01 21:27:45,607: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:45,608: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:47,034: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:47
+2024-02-01 21:27:47,037: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:47,037: root: INFO: Current backtesting datetime 2020-01-14 16:00:00-05:00
+2024-02-01 21:27:47,041: root: INFO: Current backtesting datetime 2020-01-15 09:30:00-05:00
+2024-02-01 21:27:47,042: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:47
+2024-02-01 21:27:47,042: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:47,049: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:48,787: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:48
+2024-02-01 21:27:48,791: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:48,793: root: INFO: Current backtesting datetime 2020-01-15 16:00:00-05:00
+2024-02-01 21:27:48,794: root: INFO: Current backtesting datetime 2020-01-16 09:30:00-05:00
+2024-02-01 21:27:48,795: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:48
+2024-02-01 21:27:48,795: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:48,799: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:51,142: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:51
+2024-02-01 21:27:51,145: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:51,147: root: INFO: Current backtesting datetime 2020-01-16 16:00:00-05:00
+2024-02-01 21:27:51,147: root: INFO: Current backtesting datetime 2020-01-17 09:30:00-05:00
+2024-02-01 21:27:51,150: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:51
+2024-02-01 21:27:51,150: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:51,151: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:52,775: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:52
+2024-02-01 21:27:52,783: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:52,783: root: INFO: Current backtesting datetime 2020-01-17 16:00:00-05:00
+2024-02-01 21:27:52,783: root: INFO: Current backtesting datetime 2020-01-18 09:30:00-05:00
+2024-02-01 21:27:52,788: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:27:52,794: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-02-01 21:27:52,799: root: INFO: Current backtesting datetime 2020-01-18 09:29:00-05:00
+2024-02-01 21:27:52,799: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:27:52,799: root: INFO: Current backtesting datetime 2020-01-21 08:30:00-05:00
+2024-02-01 21:27:52,799: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:27:52,808: root: INFO: Current backtesting datetime 2020-01-21 09:30:00-05:00
+2024-02-01 21:27:52,808: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:27:52,815: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:52
+2024-02-01 21:27:52,816: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:52,820: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:53,384: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:53
+2024-02-01 21:27:53,386: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:53,390: root: INFO: Current backtesting datetime 2020-01-21 16:00:00-05:00
+2024-02-01 21:27:53,390: root: INFO: Current backtesting datetime 2020-01-22 09:30:00-05:00
+2024-02-01 21:27:53,395: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:53
+2024-02-01 21:27:53,395: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:53,403: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:55,221: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:55
+2024-02-01 21:27:55,226: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:55,229: root: INFO: Current backtesting datetime 2020-01-22 16:00:00-05:00
+2024-02-01 21:27:55,229: root: INFO: Current backtesting datetime 2020-01-23 09:30:00-05:00
+2024-02-01 21:27:55,232: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:55
+2024-02-01 21:27:55,232: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:55,235: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:56,457: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:56
+2024-02-01 21:27:56,463: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:56,466: root: INFO: Current backtesting datetime 2020-01-23 16:00:00-05:00
+2024-02-01 21:27:56,468: root: INFO: Current backtesting datetime 2020-01-24 09:30:00-05:00
+2024-02-01 21:27:56,469: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:56
+2024-02-01 21:27:56,470: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:56,473: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:58,957: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:27:58
+2024-02-01 21:27:58,959: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:27:58,959: root: INFO: Current backtesting datetime 2020-01-24 16:00:00-05:00
+2024-02-01 21:27:58,959: root: INFO: Current backtesting datetime 2020-01-25 09:30:00-05:00
+2024-02-01 21:27:58,964: root: INFO: TradeWithMe : The market is not currently open, skipping this trading iteration
+2024-02-01 21:27:58,968: root: INFO: Current backtesting datetime 2020-01-25 09:29:00-05:00
+2024-02-01 21:27:58,972: root: INFO: Current backtesting datetime 2020-01-25 09:29:00-05:00
+2024-02-01 21:27:58,972: root: INFO: TradeWithMe : Executing the after_market_closes lifecycle method
+2024-02-01 21:27:58,972: root: INFO: Current backtesting datetime 2020-01-27 08:30:00-05:00
+2024-02-01 21:27:58,975: root: INFO: TradeWithMe : Executing the before_market_opens lifecycle method
+2024-02-01 21:27:58,975: root: INFO: Current backtesting datetime 2020-01-27 09:30:00-05:00
+2024-02-01 21:27:58,975: root: INFO: TradeWithMe : Executing the before_starting_trading lifecycle method
+2024-02-01 21:27:58,975: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:27:58
+2024-02-01 21:27:58,983: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:27:58,983: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:28:00,626: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:28:00
+2024-02-01 21:28:00,632: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:28:00,634: root: INFO: Current backtesting datetime 2020-01-27 16:00:00-05:00
+2024-02-01 21:28:00,634: root: INFO: Current backtesting datetime 2020-01-28 09:30:00-05:00
+2024-02-01 21:28:00,634: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:28:00
+2024-02-01 21:28:00,634: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:28:00,641: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:28:02,102: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:28:02
+2024-02-01 21:28:02,115: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:28:02,115: root: INFO: Current backtesting datetime 2020-01-28 16:00:00-05:00
+2024-02-01 21:28:02,115: root: INFO: Current backtesting datetime 2020-01-29 09:30:00-05:00
+2024-02-01 21:28:02,119: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:28:02
+2024-02-01 21:28:02,119: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:28:02,121: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:28:03,161: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:28:03
+2024-02-01 21:28:03,161: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:28:03,161: root: INFO: Current backtesting datetime 2020-01-29 16:00:00-05:00
+2024-02-01 21:28:03,161: root: INFO: Current backtesting datetime 2020-01-30 09:30:00-05:00
+2024-02-01 21:28:03,176: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:28:03
+2024-02-01 21:28:03,176: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:28:03,180: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:28:04,250: root: INFO: TradeWithMe : Trading iteration ended at 2024-02-01 21:28:04
+2024-02-01 21:28:04,258: root: INFO: TradeWithMe : Sleeping for 86400 seconds
+2024-02-01 21:28:04,264: root: INFO: Current backtesting datetime 2020-01-30 16:00:00-05:00
+2024-02-01 21:28:04,266: root: INFO: Current backtesting datetime 2020-01-31 09:30:00-05:00
+2024-02-01 21:28:04,267: root: INFO: TradeWithMe : Executing the on_trading_iteration lifecycle method at 2024-02-01 21:28:04
+2024-02-01 21:28:04,267: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-02-01 21:28:04,272: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
